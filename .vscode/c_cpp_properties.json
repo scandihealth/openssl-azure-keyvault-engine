@@ -1,0 +1,69 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceRoot}",
+                "/usr/include",
+                "/usr/local/include"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/usr/include",
+                    "/usr/local/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceRoot}",
+                "/usr/include",
+                "/usr/local/include"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/usr/include",
+                    "/usr/local/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceRoot}",
+                "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/*",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/um",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/ucrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/shared",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/winrt",
+                "C:/Users/chj/git/openssl-1.1.0f"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/*",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/um",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/ucrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/shared",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/winrt",
+                    "C:/Users/chj/git/openssl-1.1.0f"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ]
+}

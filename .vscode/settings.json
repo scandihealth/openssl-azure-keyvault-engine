@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "asn1.h": "c",
+        "ossl_typ.h": "c",
+        "rsa.h": "c"
+    }
+}
